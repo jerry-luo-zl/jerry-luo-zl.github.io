@@ -2553,7 +2553,7 @@ body {
   background-size: cover;
 }
 .content-wrap {
-  opacity: 0.85;
+  opacity: 0.9;
 }
 .site-meta .site-title {
   font-weight: bold;
@@ -2563,5 +2563,5 @@ body {
   background: #eea2a4;
 }
 .sidebar {
-  opacity: 0.85;
+  opacity: 0.9;
 }
